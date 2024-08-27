@@ -1,0 +1,30 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+}
+
+.center-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+    background: #8cb3ed;
+    padding: 9px 17px;
+    border-radius: 30px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: #8cb3ed;
+    font-size: 28px;
+    text-align: center;
+}
